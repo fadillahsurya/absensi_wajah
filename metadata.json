@@ -1,0 +1,8 @@
+{
+  "name": "Copy of HRIS Pro - Smart Attendance",
+  "description": "A comprehensive HRIS mobile application featuring face recognition attendance, geofencing, and an AI-powered HR assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
